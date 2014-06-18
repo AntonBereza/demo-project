@@ -9,7 +9,7 @@ Need to have a list:
 	*second item
 	*and so on
 
-А тут по-русски *выделено жирным*.
+This text is *bolded*
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
