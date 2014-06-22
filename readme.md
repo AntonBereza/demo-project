@@ -25,5 +25,5 @@ Git is superb.
 
 This is a quote down below. Someone said:
 
-> "Whatever doesn't kill me 
-> simply makes stranger."
+> Whatever doesn't kill me
+> simply makes stranger
