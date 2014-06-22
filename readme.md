@@ -22,3 +22,8 @@ That's it for tonight.
 
 Git is superb.
 --------------
+
+This is a quote down below. Someone said:
+
+> "Whatever doesn't kill me 
+> simply makes stranger."
